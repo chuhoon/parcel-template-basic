@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Parcel bundler</title>
+  <link rel="stylesheet" href="496156da5fe5d27b7d698d7bfeb9cdd5">
+  <link rel="stylesheet" href="9a6aa0b70972752e9b78b5e408db6096">
+  <script defer="" src="4c954b52c9c0eb560b1c4a88b1c5dbf4"></script>
+</head>
+<body>
+  <h1>hello parcel!!</h1>
+</body>
+</html>
